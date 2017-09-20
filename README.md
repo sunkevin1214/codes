@@ -1,3 +1,5 @@
-All codes are for my experiments, and the architectures as well as the weight initialization parameters are found by my algorithm that will be relased soon.
+All codes are implemented from the architecture and weight initialization optimized by my own algorithm that will be released soon.
 
-Fell free to contact me when you have any problem/question of these codes.
+These codes have been tested in the GPU with NVIDIA 1080, and written by Tensorflow1.3.
+
+Feel free to contact me when encouter the propoblems in reproducing the results. <sunkevin1214@gmail.com>
